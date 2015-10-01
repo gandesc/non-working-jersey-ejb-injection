@@ -5,6 +5,7 @@ The problem is that the injected EJB is null.
 
 The project is eclipse importable.
 
+
 To build it from eclipse, 
 
 1. create a maven build config, with goal: clean package
@@ -12,6 +13,7 @@ To build it from eclipse,
 2. edit src/main/resources/config.properties and set the path to your server's deployments' folder
 
 3. run the build config created at step 1
+
 
 To call the webservice, use:
 
