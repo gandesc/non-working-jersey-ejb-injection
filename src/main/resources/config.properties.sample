@@ -1,0 +1,5 @@
+#save a copy of this file as config.properties and set you own computer path/variables
+#do not add your file to the svn repository
+
+#path to the deployments folder or wildfly/jboss
+jboss.deploy.path=C:\\WORK\\_srv\\wildfly-9.0.1.Final\\standalone\\deployments\\
